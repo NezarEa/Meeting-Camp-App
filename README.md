@@ -34,9 +34,12 @@
 <!-- Replace the placeholder paths with actual screenshots of your app -->
 
 <img src="https://github.com/user-attachments/assets/6529ecdc-3223-49a9-9e62-271a7e797173" alt="Screenshot_20241206_191333" width="300"/>
+
 *Écran d'accueil avec l'option de démarrer une nouvelle conférence.*
 
+
 <img src="https://github.com/user-attachments/assets/367b0138-8d00-4c7b-bdbb-5c828bb4a115" alt="Screenshot_20241206_191259" width="300"/>
+
 *Active video conference interface.*
 
 
